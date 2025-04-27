@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Raghav Dwivedi
 
 [![Gmail Badge](https://img.shields.io/badge/-raghavdwivedi463@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:raghavdwivedi463@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/-raghav--dwivedi-24292e?style=flat&logo=github&logoColor=white)](https://github.com/raghav-dwivedi)
-[![Twitter Badge](https://img.shields.io/badge/-@Raghavdwivedi45-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Raghavdwivedi45)
+[![GitHub Badge](https://img.shields.io/badge/-raghav--dwivedi-24292e?style=flat&logo=github&logoColor=white)](https://github.com/Raghavdwivedi45)
+[![LinkedIn Badge](https://img.shields.io/badge/-Raghav%20Dwivedi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/RaghavDwivedi463/)
 
 ---
 
@@ -39,17 +39,14 @@
 - **ArticleVerse**  
   A platform to read and write articles and books.  
   _HTML, CSS, JavaScript, Node.js, MongoDB, EJS, Express, PassportJS_  
-  [Deployed Link]() | [Demo Video]() | [GitHub Repo]() | [Sample Images]()
 
 - **StayNest**  
   A hotel booking platform with search, comparison, and review features.  
   _Bootstrap, HTML, CSS, JavaScript, Node.js, MongoDB, EJS, Express, PassportJS_  
-  [Deployed Link]() | [Demo Video]() | [GitHub Repo]() | [Sample Images]()
 
 - **ConnectMate**  
   Peer-to-peer video calling application with a clean interface.  
   _TailwindCSS, ReactJS, CSS, JavaScript, Node.js, WebSocket (Socket.io)_  
-  [Sample Images]()
 
 - **Employee Management System**  
   _HTML, PHP, CSS, JavaScript_
@@ -64,13 +61,6 @@
 - 🏅 Solved **300+ DSA problems** in Java on **LeetCode** and **GeeksforGeeks**.
 - 🏅 **1st Rank in India** (100/100 in Hindi) — CBSE Xth Board (2020).
 - 🏅 Academic Excellence with 95.33% (XII) and 96.80% (X).
-
----
-
-## 🔗 Important Links
-
-- [LeetCode Profile]()  
-- [GeeksforGeeks Profile]()
 
 ---
 
