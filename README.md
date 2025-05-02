@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-raghavdwivedi463@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:raghavdwivedi463@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-raghav--dwivedi-24292e?style=flat&logo=github&logoColor=white)](https://github.com/Raghavdwivedi45)
-[![LinkedIn Badge](https://img.shields.io/badge/-Raghav%20Dwivedi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/RaghavDwivedi463/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-Raghav%20Dwivedi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/RaghavDwivedi463/)
 
 ---
 
@@ -33,21 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-</p>
-
----
-
-## 🔥 My Stats :
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Raghavdwivedi45&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raghavdwivedi45&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavdwivedi45&layout=compact&theme=dark" />
 </p>
 
 ---
