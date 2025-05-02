@@ -39,15 +39,15 @@
 
 ## 🔥 My Stats :
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RaghavDwivedi&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RaghavDwivedi45&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaghavDwivedi&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RaghavDwivedi45&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavDwivedi&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavDwivedi45&layout=compact&theme=dark" />
 </p>
 
 ---
