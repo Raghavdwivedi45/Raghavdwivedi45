@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-raghavdwivedi463@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:raghavdwivedi463@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-raghav--dwivedi-24292e?style=flat&logo=github&logoColor=white)](https://github.com/Raghavdwivedi45)
-[![Gmail Badge](https://img.shields.io/badge/-raghav--dwivedi-24292e?style=flat&&logoColor=blue)](https://www.linkedin.com/in/RaghavDwivedi463/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/RaghavDwivedi463/)
 
 
 ---
