@@ -14,14 +14,6 @@
 
 ---
 
-## 🛠️ Skills
-
-- **Languages:** Java, C, C++, C#, Python, JavaScript
-- **Frontend:** HTML, CSS, Bootstrap, TailwindCSS, MaterialUI
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, MySQL
-- **Others:** Git, GitHub, MVC Architecture, WebSocket (Socket.io)
-
 ## 🚀 Languages and Tools:
 
 <p align="left">
