@@ -73,7 +73,7 @@
 
 ## 🏆 Achievements
 
-- 🏅 Solved **300+ DSA problems** in Java on **LeetCode** and **GeeksforGeeks**.
+- 🏅 Solved **350+ DSA problems** in Java on **LeetCode** and **GeeksforGeeks**.
 - 🏅 **1st Rank in India** (100/100 in Hindi) — CBSE Xth Board (2020).
 - 🏅 Academic Excellence with 95.33% (XII) and 96.80% (X).
 
